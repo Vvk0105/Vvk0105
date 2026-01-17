@@ -1,11 +1,52 @@
-- 👋 Hi, I’m @Vivek
-- 👀 I’m interested in coding web pages,applications
-- 🌱 I’m currently learning Python Django
-- 💞️ I’m looking to collaborate on web development or application projects
-- 📫 How to reach me 7306533356
+# 👋 Hi, I'm Vivek
 
+🚀 **Python • React • TypeScript Developer**  
+I build clean, scalable, and user-focused applications — from backend logic to polished frontends.
 
-<!---
-Vvk0105/Vvk0105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧑‍💻 About Me
+
+- 💡 Passionate about building performant web apps and APIs  
+- 🐍 Strong background in **Python** (backend, automation, APIs)  
+- ⚛️ Experienced with **React** and modern frontend tooling  
+- 🧠 Type-safe enthusiast using **TypeScript**  
+- 🌱 Always learning and improving  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- TypeScript
+- JavaScript
+
+### Frontend
+- React
+- HTML5 / CSS3
+- Tailwind / Styled Components
+
+### Backend
+- FastAPI / Django
+- REST APIs
+- Authentication & Authorization
+
+### Tools & Platforms
+- Git & GitHub
+- Docker
+
+### Portfolio
+- https://vivek-portfolioo.netlify.app
+  
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Vvk0105
+- LinkedIn: https://www.linkedin.com/in/vivek-babu-151442248/
+- Email: vivekbabu0105@gmail.com
+
+---
+
+⭐️ *Feel free to explore my repositories and drop a star if you like my work!*
