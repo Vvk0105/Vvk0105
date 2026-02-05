@@ -20,7 +20,6 @@ I build clean, scalable, and user-focused applications — from backend logic to
 ### Languages
 - Python
 - TypeScript
-- JavaScript
 
 ### Frontend
 - React
